@@ -1,0 +1,13 @@
+cask 'visual-studio-code' 
+cask 'warp'
+cask 'google-chrome'
+cask 'raycast'
+cask 'slack'
+cask 'spotify'
+
+formula 'awscli'
+formula 'git'
+formula 'gh'
+formula 'node'
+formula 'yarn'
+formula 'zsh'
